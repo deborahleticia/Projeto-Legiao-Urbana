@@ -1,0 +1,30 @@
+@font-face{
+    font-family: Principal;
+    src:url(NewTegomin-Regular.ttf);
+}
+
+
+body {
+    background-color:bisque;
+}
+h1 {
+    color:coral;
+    font-family:'Dancing Script', cursive;
+    font-size: 2.9EM; 
+}
+h2 {
+    color:crimson;
+    font-family: Principal;
+}
+h3 {
+    color:forestgreen;
+}
+p {
+    font-family: 'Arial', 'Calibri', 'Cursive';
+}
+
+strong {
+    color:darkcyan;
+    font-family: 'Courier New', 'Arial', 'Candara';
+
+}
